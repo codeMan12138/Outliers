@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Outliers/static/css/main.e6c13ad2.css",
+    "main.js": "/Outliers/static/js/main.92fffe57.js",
+    "index.html": "/Outliers/index.html",
+    "main.e6c13ad2.css.map": "/Outliers/static/css/main.e6c13ad2.css.map",
+    "main.92fffe57.js.map": "/Outliers/static/js/main.92fffe57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.92fffe57.js"
+  ]
+}
